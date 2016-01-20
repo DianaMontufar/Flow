@@ -1,0 +1,23 @@
+.div1{
+	width: 200px;
+	height: 200px;
+	background: #ED2251;
+	position: relative;
+}
+.div2{
+	width: 200px;
+	height: 200px;
+	background: #3A81BA;
+	position: relative;
+}
+.div3{
+	width: 200px;
+	height: 200px;
+	background: #8BAB42;
+	position: relative;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}

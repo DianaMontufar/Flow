@@ -1,0 +1,32 @@
+.div1{
+	width: 200px;
+	height: 200px;
+	background: #ED2251;
+	right: 0px;
+	top: 0px;
+	position: absolute;
+}
+.div2{
+	width: 200px;
+	height: 200px;
+	background: #3A81BA;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.div3{
+	width: 200px;
+	height: 200px;
+	background: #8BAB42;
+	left: 0px;
+	bottom: 0px;
+	position: absolute;
+}
+.div4{
+	width: 200px;
+	height: 200px;
+	background: #FFFF00;
+	right: 0px;
+	bottom: 0px;
+	position: absolute;
+}
